@@ -1,0 +1,1 @@
+Flutter does not support podspec dependencies from Git. Should we just publish our library?
